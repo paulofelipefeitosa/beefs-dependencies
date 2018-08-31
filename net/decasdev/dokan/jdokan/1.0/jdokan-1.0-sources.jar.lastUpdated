@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 22 11:19:02 BRT 2018
+http\://download.oracle.com/maven/.error=
+@default-beefs-http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.lastUpdated=1534947541006
+http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.error=Could not transfer artifact net.decasdev.dokan\:jdokan\:jar\:sources\:1.0 from/to beefs (http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs)\: queenbee.lsd.ufcg.edu.br\: Nome ou servi\u00E7o desconhecido
+https\://repo.maven.apache.org/maven2/.lastUpdated=1534947542828
+http\://download.oracle.com/maven/.lastUpdated=1534947542694
+https\://repo.maven.apache.org/maven2/.error=

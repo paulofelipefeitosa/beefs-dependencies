@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 11 13:40:44 BRT 2017
+http\://download.oracle.com/maven/.error=
+http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.error=Could not transfer artifact fuse\:fuse-j\:jar\:javadoc\:2.4 from/to beefs (http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs)\: queenbee.lsd.ufcg.edu.br
+@default-beefs-http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.lastUpdated=1494520843003
+https\://repo.maven.apache.org/maven2/.lastUpdated=1494520842994
+http\://download.oracle.com/maven/.lastUpdated=1494520844200
+https\://repo.maven.apache.org/maven2/.error=

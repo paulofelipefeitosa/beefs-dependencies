@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 04 10:17:56 BRT 2017
+http\://download.oracle.com/maven/.error=
+@default-beefs-http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.lastUpdated=1493903874376
+http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs/.error=Could not transfer artifact fuse\:fuse-j\:jar\:sources\:2.4 from/to beefs (http\://queenbee.lsd.ufcg.edu.br\:8081/nexus/content/repositories/beefs)\: queenbee.lsd.ufcg.edu.br\: Nome ou servi\u00E7o desconhecido
+https\://repo.maven.apache.org/maven2/.lastUpdated=1493903876749
+http\://download.oracle.com/maven/.lastUpdated=1493903875680
+https\://repo.maven.apache.org/maven2/.error=
